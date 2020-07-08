@@ -1,0 +1,126 @@
+MP5 worksheet
+
+Comments:
+
+
+
+***************** fractions    *****************
+fractions output as specified in the JH5 homework.
+____________________________________
+
+
+
+Enter operation: + - * / q (q ==> quit) : +
+Enter Fraction 1: 1/3
+Enter Fraction 2: 4/6
+f1 = 1/3
+f2 = 2/3
+f1 and f2 are not equal
+f1+f2=1/1
+
+Enter operation: + - * / q (q ==> quit) : +
+Enter Fraction 1: 5/25
+Enter Fraction 2: 10/50
+f1 = 1/5
+f2 = 1/5
+f1 and f2 are equal
+f1+f2=2/5
+
+Enter operation: + - * / q (q ==> quit) : +
+Enter Fraction 1: 7/30
+Enter Fraction 2: 11/20
+f1 = 7/30
+f2 = 11/20
+f1 and f2 are not equal
+f1+f2=47/60
+
+Enter operation: + - * / q (q ==> quit) : -
+Enter Fraction 1: 11/12
+Enter Fraction 2: 4/5
+f1 = 11/12
+f2 = 4/5
+f1 and f2 are not equal
+f1-f2=7/60
+
+Enter operation: + - * / q (q ==> quit) : *
+Enter Fraction 1: 5/6
+Enter Fraction 2: 1/4
+f1 = 5/6
+f2 = 1/4
+f1 and f2 are not equal
+f1*f2=5/24
+
+Enter operation: + - * / q (q ==> quit) : /
+Enter Fraction 1: 6/7
+Enter Fraction 2: 1/12
+f1 = 6/7
+f2 = 1/12
+f1 and f2 are not equal
+f1/f2=72/7
+
+Enter operation: + - * / q (q ==> quit) : q
+Bye
+
+
+***************** string_array    *****************
+
+string_array output as specified in the JH5 homework.
+____________________________________
+
+Nancy Sue Marta Rita Joy Bella Sarah Mary Sam Fred George 
+
+***************** date_array    *****************
+
+
+date_array output as specified in the JH5 homework.
+
+____________________________________
+
+July 3, 1987
+September 21, 1980
+November 14, 1978
+May 16, 1984
+
+***************** one_dimensional_array    *****************
+
+
+one_dimensional_array output as specified in the JH5 homework.
+____________________________________
+
+Enter size of array to create: 
+4
+0
+100
+200
+300
+
+***************** fantasy_football    *****************
+
+
+fantasy_football output as specified in the JH5 homework.
+____________________________________
+
+Enter number of teams: 4
+Enter number of weeks: 3
+Enter team name: Blind Pigeons
+Enter score for team Blind Pigeons on Week 1:	123
+Enter score for team Blind Pigeons on Week 2:	95
+Enter score for team Blind Pigeons on Week 3:	121
+Enter team name: Spittin' Llamas
+Enter score for team Spittin' Llamas on Week 1:	54
+Enter score for team Spittin' Llamas on Week 2:	98
+Enter score for team Spittin' Llamas on Week 3:	83
+Enter team name: Nut Zippers
+Enter score for team Nut Zippers on Week 1:	70
+Enter score for team Nut Zippers on Week 2:	74
+Enter score for team Nut Zippers on Week 3:	103
+Enter team name: Bucking Broncos
+Enter score for team Bucking Broncos on Week 1:	108
+Enter score for team Bucking Broncos on Week 2:	119
+Enter score for team Bucking Broncos on Week 3:	81
+Team Name               Week 1    Week 2    Week 3
+Blind Pigeons              123        95       121    ave = 113.0
+Spittin' Llamas             54        98        83    ave = 78.3
+Nut Zippers                 70        74       103    ave = 82.3
+Bucking Broncos            108       119        81    ave = 102.7
+Weekly Ave:               88.8      96.5      97.0
